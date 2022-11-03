@@ -1,0 +1,10 @@
+<Route exact path='/businessent' key="businessent" element={<News pageSize={4} country='in' category='science' />} ></Route>
+<Route exact path='/ertainment' key="ertainment" element={<News pageSize={4} country='in' category='ertainment' />} ></Route>
+<Route exact path='/general' key="general" element={<News pageSize={4} country='in' category='general' />} ></Route>
+<Route exact path='/health' key="health" element={<News pageSize={4} country='in' category='health' />} ></Route>
+<Route exact path='/science' key="science" element={<News pageSize={4} country='in' category='science' />} ></Route>
+<Route exact path='/sports' key="sports" element={<News pageSize={4} country='in' category='sports' />} ></Route>
+<Route exact path='/technology' key="technology" element={<News pageSize={4} country='in' category='technology' />} ></Route>
+
+https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=3af5b1389840492b907f17615ddf7c5c&page=1&pageSize=4
+

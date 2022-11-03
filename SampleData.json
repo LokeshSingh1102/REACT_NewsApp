@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Putin watches first Russian nuclear drill since invasion of Ukraine",
+            "description": "Russia's leader oversees annual exercises at a time of heightened tensions with the West.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63397927",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B7A/production/_127341572_putinnuke.jpg",
+            "publishedAt": "2022-10-26T13:37:23.2764272Z",
+            "content": "Vladimir Putin has overseen annual nuclear exercises by Russia's strategic nuclear forces at a time of heightened tensions with the West over his eight-month-long war in Ukraine.\r\nBallistic and cruis… [+750 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: South Africa refuses to seize sanctioned Russian superyacht",
+            "description": "Pretoria says it sees no reason to seize the yacht owned by Russia's richest man, Alexei Mordashov.",
+            "url": "http://www.bbc.co.uk/news/world-africa-63395322",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F7B/production/_127338858_gettyimages-1243789728.jpg",
+            "publishedAt": "2022-10-26T12:37:24.1701114Z",
+            "content": "South Africa says it will allow a sanctioned Russian oligarch to dock his superyacht in Cape Town. \r\nThe $521m (£472m) vessel, which belongs to Alexei Mordashov - an ally of Russian leader Vladimir P… [+3404 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Eric Weinberg: Scrubs producer and writer pleads not guilty to 18 counts of sexual assault",
+            "description": "The 62-year-old is denied bail after appearing in court in Los Angeles on Tuesday.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-63397652",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8F55/production/_127339663_hi079818854.jpg",
+            "publishedAt": "2022-10-26T12:22:20.8986645Z",
+            "content": "Eric Weinberg, who was an executive producer and writer on hit US comedy series Scrubs, has pleaded not guilty to multiple counts of sexual assault.\r\nThe 62-year-old was denied bail by a judge after … [+1294 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Indonesian woman's body found inside python, say reports",
+            "description": "A police chief said the woman's body appeared to be largely intact when it was found.",
+            "url": "http://www.bbc.co.uk/news/world-asia-63396954",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3BBD/production/_127339251_gettyimages-548996761.jpg",
+            "publishedAt": "2022-10-26T12:22:17.1952Z",
+            "content": "A woman in Indonesia's Jambi province was killed and swallowed whole by a python, according to local reports. \r\nJahrah, a rubber-tapper reportedly in her 50s, had made her way to work at a rubber pla… [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iran protests: Mourners defy police to gather at Mahsa Amini's grave",
+            "description": "A crowd of protesters defy riot police to mark 40 days since Mahsa Amini's death in custody.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-63397159",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA18/production/_127342046_mediaitem127342044.jpg",
+            "publishedAt": "2022-10-26T10:52:27.1017664Z",
+            "content": "A large crowd has protested at the cemetery in north-western Iran where Mahsa Amini is buried, as activists called for demonstrations to mark 40 days since her death in police custody.\r\nVideos posted… [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Andrew and Prince Harry royal counsellor roles challenged",
+            "description": "Peers have questioned how non-working royals can still carry out constitutional duties for the King.",
+            "url": "http://www.bbc.co.uk/news/uk-63391630",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9F4/production/_127340674_gettyimages-1428672853.jpg",
+            "publishedAt": "2022-10-26T10:52:23.5089112Z",
+            "content": "Prince Andrew's and Prince Harry's role in being allowed to stand in for King Charles for official duties has been challenged in the House of Lords.\r\nThey remain two of the five \"counsellors of state… [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Beyond the US midterms: The Swiss answer to congressional gridlock",
+            "description": "It's notoriously hard to get new laws passed in the US - could the Swiss teach the US how?",
+            "url": "http://www.bbc.co.uk/news/world-europe-63387905",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D3CF/production/_127332245_gettyimages-854979156.jpg",
+            "publishedAt": "2022-10-26T09:52:22.6951692Z",
+            "content": "It's notoriously hard to get new laws passed in the US and few believe the looming election reshaping Congress will solve that. Could the Swiss \"people power\" model help?\r\nThe US political system see… [+7467 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China accused of illegal police stations in Netherlands",
+            "description": "A Dutch media report says China is running an undeclared police operation to pressure dissidents.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63395617",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2EC5/production/_127337911_embassy.jpg",
+            "publishedAt": "2022-10-26T05:37:23.2733169Z",
+            "content": "The Chinese government has been accused of establishing at least two undeclared \"police stations\" in the Netherlands. \r\nDutch media found evidence that the \"overseas service stations\", which promise … [+3281 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rishi Sunak begins first full day as PM after cabinet reshuffle",
+            "description": "The new PM faces Labour leader Keir Starmer in PMQs at lunchtime, having spoken to the Scottish and Welsh first ministers yesterday.",
+            "url": "http://www.bbc.co.uk/news/live/uk-politics-63375473",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-10-26T04:22:30.882518Z",
+            "content": "When cabinet reshuffles arise, there tend to be a few roles that leave some raising an eyebrow (us included). Here's a rundown of the more obscure positions.\r\nChief Whip, now Simon Hart\r\nThe Chief Wh… [+2979 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Politics increasingly a deal-breaker on US dating scene",
+            "description": "With US midterm elections looming, singles yearn more than ever to meet their ideological soulmate.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63180007",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C26D/production/_127337794_gettyimages-1391299769-1.jpg",
+            "publishedAt": "2022-10-25T23:07:15.9688856Z",
+            "content": "Angela Hammontree, 55, considers herself very conservative - \"pro-gun, pro-Bible, pro-Trump\".\r\nThat can trip her up when it comes to love, though.\r\n\"The first person I dated after my divorce seemed l… [+4380 chars]"
+        }
+    ]
+}
