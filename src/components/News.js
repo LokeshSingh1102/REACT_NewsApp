@@ -29,7 +29,7 @@ class News extends Component {
 
   async Update() {
     this.props.setProgress(10)
-    let data = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=3af5b1389840492b907f17615ddf7c5c&page=${this.state.page}&pageSize=${this.props.pageSize}`)
+    let data = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`)
 
     this.setState({
       loading: true
@@ -66,7 +66,7 @@ class News extends Component {
     this.setState({
       page:this.state.page+1
     })
-    let data = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=3af5b1389840492b907f17615ddf7c5c&page=${this.state.page}&pageSize=${this.props.pageSize}`)
+    let data = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`)
 
     this.setState({
       loading: true
